@@ -17,7 +17,7 @@
       "name": "4jcraft / 4jcraft",
       "url": "https://github.com/4jcraft/4jcraft",
       "priority": 3,
-      "tag": ["game", "partner"],
+      "tag": "game",
       "mirror": "https://git.minecraftlegacy.com/backups/4jcraft"
     },
     {
